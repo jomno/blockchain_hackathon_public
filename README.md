@@ -23,7 +23,7 @@
     * 단, 실물 상품은 강원도에서 쓸 수 있는 물건을 중심으로
 3. 사람들이 토큰을 통해 상품을 구입을 하고, 강원도에서 사용을 함으로서, 부수적으로 내수경제 활성 기대
 
-### 3) 기획안 PPT 자료 [<a href="https://github.com/kbs4674/blockchain_hackathon_public/blob/kcm/public/project/hackathon_project.pptx?raw=true" target="_blank">클릭</a>]
+### 3) 기획안 PPT 자료 [<a href="https://github.com/kbs4674/blockchain_hackathon_public/blob/master/public/project/hackathon_project.pptx?raw=true" target="_blank">클릭</a>]
 <img src="https://github.com/kbs4674/blockchain_hackathon_public/blob/master/public/project/ppt_display.png?raw=true" width="500px">
 
 ## 4. AWS EC2 셋팅
