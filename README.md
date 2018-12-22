@@ -28,6 +28,7 @@
 
 ## 4. AWS EC2 셋팅
 <img src="https://github.com/kbs4674/blockchain_hackathon_public/blob/master/public/project/AWS_server1.png?raw=true" width="500px">
+
 1) AWS EC2 한국서버 DashBoard로 이동한다.
 2) 새로운 EC2 인스턴스를 생성한다.
 3) EC2 인스턴스 설정 (단계 1) : Ubuntu OS를 선택한다.
