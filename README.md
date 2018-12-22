@@ -43,6 +43,7 @@
 
 ## 5. AWS EC2:Ubuntu 서버 내 Geth 설치 및 설정
 <img src="https://github.com/kbs4674/blockchain_hackathon_public/blob/master/public/project/geth1.png?raw=true" width="500px">
+
 1) 아래 명령어 입력을 통해 go-lang 설치
 ```
 git clone https://github.com/ethereum/go-ethereum
