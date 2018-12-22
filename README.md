@@ -1,5 +1,5 @@
 # wEthereum : 이더리움 존버 가즈아ㅏ
-<img src="https://github.com/kbs4674/blockchain_hackathon_public/blob/kcm/public/project/ppt_display.png?raw=true4" width="500px">
+<img src="https://github.com/kbs4674/blockchain_hackathon_public/blob/master/public/project/hackathon_poster.jpg?raw=true" width="250px">
 
 ## 1. 팀 소개
 한도경, 송현수, 구건모, 김철민
@@ -24,10 +24,10 @@
 3. 사람들이 토큰을 통해 상품을 구입을 하고, 강원도에서 사용을 함으로서, 부수적으로 내수경제 활성 기대
 
 ### 3) 기획안 PPT 자료 [<a href="https://github.com/kbs4674/blockchain_hackathon_public/blob/kcm/public/project/hackathon_project.pptx?raw=true" target="_blank">클릭</a>]
-<img src="https://github.com/kbs4674/blockchain_hackathon_public/blob/kcm/public/project/ppt_display.png?raw=true4" width="500px">
+<img src="https://github.com/kbs4674/blockchain_hackathon_public/blob/master/public/project/ppt_display.png?raw=true" width="500px">
 
 ## 4. AWS EC2 셋팅
-<img src="https://github.com/kbs4674/blockchain_hackathon_public/blob/kcm/public/project/AWS_server1.png?raw=true" width="500px">
+<img src="https://github.com/kbs4674/blockchain_hackathon_public/blob/master/public/project/AWS_server1.png?raw=true" width="500px">
 1) AWS EC2 한국서버 DashBoard로 이동한다.
 2) 새로운 EC2 인스턴스를 생성한다.
 3) EC2 인스턴스 설정 (단계 1) : Ubuntu OS를 선택한다.
@@ -41,7 +41,7 @@
 8) AWS EC2 계정인증 SSH 접속법은 설명에서 생략하겠다, 혹시 궁금하다면 <a href="http://hyeonstorage.tistory.com/271" target="_blank">여기</a>를 클릭해서 참고.
 
 ## 5. AWS EC2:Ubuntu 서버 내 Geth 설치 및 설정
-<img src="https://github.com/kbs4674/blockchain_hackathon_public/blob/kcm/public/project/geth2.png?raw=true" width="500px">
+<img src="https://github.com/kbs4674/blockchain_hackathon_public/blob/master/public/project/geth1.png?raw=true" width="500px">
 1) 아래 명령어 입력을 통해 go-lang 설치
 ```
 git clone https://github.com/ethereum/go-ethereum
